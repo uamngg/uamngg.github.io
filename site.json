@@ -1,0 +1,50 @@
+{
+  "name": "Umang Pansuriya",
+  "theme": "paper",
+  "role": "Senior Unity Game Developer",
+  "location": "Ahmedabad, Gujarat, India",
+  "email": "mr.umang92@gmail.com",
+  "availability": "Open to remote roles",
+  "links": [
+    {"label": "Email", "url": "mailto:mr.umang92@gmail.com"},
+    {"label": "GitHub", "url": "https://github.com/uamngg"},
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/in/umang-pansuriya-4a2127251"},
+    {"label": "itch.io", "url": "https://uamngg.itch.io/"}
+  ],
+  "intro": "I build mobile, WebGL and PC games in Unity. Over 4 years I have shipped puzzle, tycoon and multiplayer titles, and I care most about clean architecture and smooth performance on low-end devices.",
+  "summary": "Senior Unity Game Developer with 4+ years of experience architecting and shipping production mobile titles, WebGL games, and real-time multiplayer systems. Specialized in ScriptableObject-driven architecture, decoupled event-driven systems, and modular Assembly Definitions. I optimize runtime performance (draw calls, memory, garbage collection) and build reliable client-server networking and Addressables pipelines.",
+  "skills": [
+    {"group": "Engine & languages", "items": "Unity (2D/3D, URP, HDRP), C#, .NET, Unity Profiler, Frame Debugger"},
+    {"group": "Architecture", "items": "ScriptableObject architecture, event-driven systems, state machines, object pooling, asmdefs"},
+    {"group": "Networking & live-ops", "items": "Socket.IO / WebSockets, REST APIs, session management, Addressables, In-App Purchases, game analytics"},
+    {"group": "Platforms & build", "items": "Android, iOS, WebGL (CrazyGames, Poki), Git, multi-platform build and release"},
+    {"group": "Workflow", "items": "AI tooling for prototyping, boilerplate, profiling analysis and documentation"}
+  ],
+  "experience": [
+    {
+      "role": "Unity Game Developer",
+      "company": "Funcell, Ahmedabad",
+      "period": "Sep 2025 – Oct 2026",
+      "points": [
+        "Solo-developed Stack Master, a grid-based match-3 puzzle game, end to end using ScriptableObjects and event signals.",
+        "Built extensible 2D grid placement and progression systems for Spirit World, and integrated remote Addressables catalogs to cut base build size.",
+        "Made a gameplay prototype and a custom Unity Editor level-design toolset for Arrow Puzzle.",
+        "Fixed platform-specific bugs and input issues on live CrazyGames and Poki builds."
+      ]
+    },
+    {
+      "role": "Unity Game Developer",
+      "company": "9Brainz, Rajkot",
+      "period": "Jan 2023 – Sep 2025",
+      "points": [
+        "Programmed the tycoon loops, room upgrades, save system and draw-call optimization for Queen Hotel Simulator.",
+        "Implemented Socket.IO and REST networking for Teen Patti and Roulette: turn sync, sessions and reconnection.",
+        "Built puzzle state machines and interactions, HDRP lighting and audio for the horror prototype Whispers in the Woods.",
+        "Developed a .NET bridge for real-time data exchange between hardware peripherals and servers."
+      ]
+    }
+  ],
+  "education": [
+    {"degree": "Bachelor of Science, Information Technology", "school": "Saurashtra University, Rajkot", "period": "2021 – 2024"}
+  ]
+}
